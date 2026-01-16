@@ -1,0 +1,7 @@
+{
+  "name": "Copy of  HopOn - Smart Carpooling ASEP",
+  "description": "HopOn is a unique urban mobility platform connecting commuters to share personal vehicles, cabs, or auto-rickshaws to a common destination, reducing costs and carbon footprint.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
