@@ -8,7 +8,7 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1vXTuyRpw8fLifViDNOzhrD1sYi0fTmRv
 
-## The website/app is live on : https://hop-on-nu.vercel.app/ (but the website is not in working condition as it has no working database and google maps API
+## The website/app is live : https://hop-on-nu.vercel.app/ (but the website is not in working condition as it has no working database and google maps API)
 
 ## Run Locally
 
